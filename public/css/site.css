@@ -1,0 +1,45 @@
+html {
+  background: #ff11ff 1 F;
+}
+body {
+  width: 60%;
+  margin: 1em auto;
+}
+div[role=main] {
+  padding: 1em;
+  background: #FFF;
+  margin: 0 auto;
+}
+div[role=main] div.book {
+  width: 100%;
+  margin: 0.5em 0;
+  padding: 0.5em 0;
+  border-top: 1px solid #ccc;
+  float: left;
+}
+div[role=main] div.book div.cover {
+  float: left;
+  width: 20%;
+}
+div[role=main] div.book ul {
+  float: left;
+  width: 70%;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+div[role=main] div.book a {
+  text-decoration: none;
+}
+footer {
+  text-align: center;
+  font-size: 0.75em;
+}
+h1 {
+  text-align: center;
+  font-size: 3em;
+  margin: 0.5em 0 0 0;
+  padding: 0;
+  color: #444444;
+  font-family: Georgia, Times, serif;
+}

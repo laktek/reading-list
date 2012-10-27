@@ -1,0 +1,61 @@
+// variables
+@page-background: #F1F1F;
+@title-color: #444;
+@title-font-family: Georgia, Times, serif;
+
+// style rules
+
+html {
+	background: @page-background;
+}
+
+body {
+	width: 60%;
+	margin: 1em auto;
+}
+
+div[role=main] {
+	padding: 1em;
+	background: #FFF;	
+ 	margin: 0 auto;
+
+	div.book {
+		width: 100%;
+		margin: 0.5em 0;
+		padding: 0.5em 0;
+		border-top: 1px solid #ccc;
+		float: left;
+		
+		div.cover {
+			float: left;
+			width: 20%;
+		}
+
+		ul {
+			float: left;
+			width: 70%;
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+
+		a {
+			text-decoration: none;
+		}
+		
+	}
+}
+
+footer {
+	text-align: center;
+	font-size: 0.75em;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	margin: 0.5em 0 0 0;
+	padding: 0;
+	color: @title-color;
+	font-family:  @title-font-family;
+}

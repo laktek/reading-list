@@ -1,0 +1,22 @@
+{{> header }}
+
+		<div role="main">
+			<p>{{{intro}}}</p>
+			<div id="books">
+				{{#books_list}}
+					<div class="book">
+						<h3><a href="{{amazon_link}}">{{{title}}}</a></h3>
+						<div class="cover"><a href="{{amazon_link}}"><img src="{{cover_image}}"></a></div>
+						<ul>
+							<li><b>Author</b> - {{author}}</li>
+							<li><b>ISBN</b> - {{isbn}}</li>
+							<li><b>Rating</b> - {{rating}}</li>
+							<li><b>Favorite Quote</b> - {{{favorite_quote}}}</li>
+						</ul>
+					</div>
+				{{/books_list}}	
+			</div>	
+		</div>
+		
+{{> footer }}
+

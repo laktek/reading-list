@@ -1,0 +1,103 @@
+{
+	"books_list": [
+		{
+			"title": "The E-Myth Revisited",
+			"amazon_link": "http://amzn.to/RGqpgZ",
+			"cover_image": "http://ecx.images-amazon.com/images/I/41ieA7d6CYL._SL160_.jpg",
+			"author": "Michael E. Gerber",
+			"isbn": "0887307280",
+			"rating": "10/10",
+			"favorite_quote": "\"The true product of a business is the business itself\""
+		},
+		{
+			"title": "Zen and the Art of Motorcycle Maintenance: An Inquiry into Values",
+			"amazon_link": "http://amzn.to/VqktZB",
+			"cover_image": "http://ecx.images-amazon.com/images/I/31Ph2CzYlhL._SL160_.jpg",
+			"author": "Robert M. Pirsig",
+			"isbn": "0061673730",
+			"rating": "9/10",
+			"favorite_quote": "\"The real cycle you're working on is a cycle called 'yourself.'\"" 
+		},
+		{
+			"title": "Ender's Game",
+			"amazon_link": "http://amzn.to/UFzJpQ",
+			"cover_image": "http://ecx.images-amazon.com/images/I/51BoBX-hsyL._SL160_.jpg",
+			"author": "Orson Scott Card",
+			"isbn": "0812550706",
+			"rating": "9/10",
+			"favorite_quote": "\"Sometimes lies were more dependable than the truth.\"" 
+		},
+		{
+			"title": "The Pragmatic Programmer: From Journeyman to Master",
+			"amazon_link": "http://amzn.to/TbREhr",
+			"cover_image": "http://ecx.images-amazon.com/images/I/41F1cZImneL._SL160_.jpg",
+			"author": "Andrew Hunt, David Thomas",
+			"isbn": "020161622X",
+			"rating": "9/10",
+			"favorite_quote": "\"One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment -- a sense that the powers that be don't care about the building.\"" 
+		},
+		{
+			"title": "Effective Programming: More Than Writing Code",
+			"amazon_link": "http://amzn.to/XXB7Ty",
+			"cover_image": "http://ecx.images-amazon.com/images/I/41xDJ0SVCML._SL160_.jpg",
+			"author": "Jeff Atwood",
+			"isbn": "147830054X",
+			"rating": "8/10",
+			"favorite_quote": "\"People spend their entire lives learning how to write effectively. It isn’t something you can fake. It isn’t something you can buy. You have to work at it.\"" 
+		},
+		{
+			"title": "Drive: The Surprising Truth About What Motivates Us",
+			"amazon_link": "http://amzn.to/RH0q93",
+			"cover_image": "http://ecx.images-amazon.com/images/I/419tQKzU2jL._SL160_.jpg",
+			"author": "Daniel H. Pink",
+			"isbn": "1594484805",
+			"rating": "8/10",
+			"favorite_quote": "\"When money is used as an external reward for some activity, the subjects lose intrinsic interest for the activity.\"" 
+		},
+		{
+			"title": "Do More Faster: TechStars Lessons to Accelerate Your Startup",
+			"amazon_link": "http://amzn.to/VHo6jI",
+			"cover_image": "http://ecx.images-amazon.com/images/I/51nLrpUeZfL._SL160_.jpg",
+			"author": "Brad Feld, David Cohen",
+			"isbn": "0470929839",
+			"rating": "7/10",
+			"favorite_quote": "\"a smart-ass team with a kick-ass product in a big-ass market.\"" 
+		},
+		{
+			"title": "Anything You Want",
+			"amazon_link": "http://amzn.to/QHBMWc",
+			"cover_image": "http://ecx.images-amazon.com/images/I/51vGibcY5GL._SL160_.jpg",
+			"author": "Derek Sivers",
+			"isbn": "1936719118",
+			"rating": "9/10",
+			"favorite_quote": "\"Don't be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.\"" 
+		},
+		{
+			"title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
+			"amazon_link": "http://amzn.to/VrOqso",
+			"cover_image": "http://ecx.images-amazon.com/images/I/51JwVEZPEWL._SL160_.jpg",
+			"author": "Steve Krug",
+			"isbn": "0321344758",
+			"rating": "8/10",
+			"favorite_quote": "\"Any design idea--no matter how appallingly bad--can be made usable in the right circumstances, with enough effort\"" 
+		},
+		{
+			"title": "Smalltalk Best Practice Patterns",
+			"amazon_link": "http://amzn.to/TEnTwd",
+			"cover_image": "http://ecx.images-amazon.com/images/I/51T64R1B3RL._SL160_.jpg",
+			"author": "Kent Beck",
+			"isbn": "013476904X",
+			"rating": "7/10",
+			"favorite_quote": "\"A pattern is a decision an expert makes over and over.\"" 
+		},
+		{
+			"title": "Brave New World",
+			"amazon_link": "http://amzn.to/WMFYck",
+			"cover_image": "http://ecx.images-amazon.com/images/I/41kwa0ECKKL._SL160_.jpg",
+			"author": "Aldous Leonard Huxley",
+			"isbn": "0061767646",
+			"rating": "9/10",
+			"favorite_quote": "\"But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.\"" 
+		}
+	]
+}
