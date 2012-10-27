@@ -1,0 +1,27 @@
+{
+	"template_dir": "templates", 
+	"content_dir": "contents",
+	"output_dir": "public",
+
+	"server": { 
+		"port": 9009
+	},
+
+	"publish" : {
+		"strategy" : "s3", 
+		"options" : {
+			"bucket" : "readlist",
+			"key" : "KEY",
+			"secret" : "SECRET",
+			"x-amz-acl": "public-read"
+		}
+	},
+
+	"bundles": {
+		"/css/all.css": [
+			"/css/normalize.css",	
+			"/css/main.css",
+			"/css/site.less"
+		]	
+	}
+}
